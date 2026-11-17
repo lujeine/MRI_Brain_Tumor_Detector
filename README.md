@@ -18,14 +18,3 @@ jupyter notebook TumorDetector.ipynb
 3. Trains with augmentation, dropout, weight decay and early stopping on validation loss.
 4. Evaluates once on the held-out test set (accuracy with 95% CI, precision, recall, F1, ROC AUC, confusion matrix).
 5. Overfitting checks: train-vs-test gap, stratified 5-fold CV, shuffled-label test.
-
-## Results
-
-_Fill in after running on the real data (see the last cells of the notebook)._
-
-| Metric | Value |
-|---|---|
-| Test accuracy (95% CI) | |
-| Recall (tumor) | |
-| 5-fold CV accuracy | |
-| Train - test gap | |
